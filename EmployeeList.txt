@@ -1,0 +1,5 @@
+Dr.Salim Rahman;011;Management;Male
+Dr.Mahbub Hossian;012;Human & Resource;Male
+Dr.Razia Sultana Shimu;013;Finance;Famale
+Shahrin Afrin Maherin;0134;Account;Famale
+MD.Mahbub Rahman jayan;0122;Engineering;Male
